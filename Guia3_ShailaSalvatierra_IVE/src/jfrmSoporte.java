@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author christianduarte
+ * @author shailasalvatierra
  */
 public class jfrmSoporte extends javax.swing.JFrame {
     
